@@ -35,26 +35,22 @@ border-radius:5px;
 /* ICON */
 
 .icon-group{
-    display:flex;
-    gap:20px;
-    margin-bottom:25px;
-    align-items:center;
+display:flex;
+gap:25px;
+margin-bottom:40px;
 }
-
 
 .icon-group img{
-    width:90px;
-    height:90px;
-    border-radius:50%;
-    border:6px solid #e5e5e5;
-    object-fit:cover;
-    box-shadow:0 4px 8px rgba(0,0,0,0.15);
+width:110px;
+height:110px;
+border-radius:50%;
+border:7px solid white;
+object-fit:cover;
+box-shadow:0 4px 10px rgba(0,0,0,0.2);
 }
+
+
 /* TEXT */
-.left{
-    width:55%;
-    padding-left:40px;
-}
 
 .small-text{
 font-size:16px;
