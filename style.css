@@ -34,10 +34,10 @@ body{
 
 /* ICON */
 
-.icon-group{
-    display:flex;
-    gap:25px;
-    margin-bottom:40px;
+.icon-row{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 25px;
 }
 
 .circle-img{
